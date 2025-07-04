@@ -1,7 +1,7 @@
 {
   "name": "plugin-desearch",
   "description": "ElizaOS plugin for seamless integration with Desearch, enabling enhanced AI-driven search capabilities",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.js",
